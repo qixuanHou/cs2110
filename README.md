@@ -1,7 +1,7 @@
 # cs2110
 Georgia Tech Cs2110 Spring 2016 - Computer Organization &amp; Programming
 Course Topics
-1. Course introduction and overview
+1. Course introduction and overview\n
 2. Bits, Data Types, and Operations
 3. Digital Logic Structures
 4. The Von Neumann Model
